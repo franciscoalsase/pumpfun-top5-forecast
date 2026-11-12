@@ -1,14 +1,11 @@
-World news digest: Wednesday 11 November 2026 (source in brackets; unconfirmed claims flagged)
+World news summary for Wednesday 11 November 2026, most consequential first. Each item happened or was first reported that day; the reporting outlet is in brackets and unconfirmed claims are labelled.
 
-WAR AND DIPLOMACY
-- Ukraine: US-mediated Russia-Ukraine talks in Abu Dhabi ended after two days with an agreement in principle on a large prisoner exchange but no ceasefire or territorial deal [AP, Reuters].
-- Gulf: Saudi Arabia said it intercepted seven Houthi missiles and drones; a Houthi claim of hitting a Yanbu oil station is unconfirmed. Iran's Mohsen Rezaei said no enriched nuclear material will leave the country. Brent rose 1.39% to $92.76 [Reuters].
-- Gaza: Israeli fire killed at least seven, including a father and his son, 13; the army said it hit militants [Reuters]. Israel's new Knesset was sworn in [AP].
-- NATO: at least four stray drones entered Baltic airspace and jets scrambled [Reuters]. UK police arrested a US soldier suspected of spying for Russia [BBC].
-
-WORLD
-- Climate: at COP31 in Antalya, UN chief Antonio Guterres warned slow action leads toward "mutually assured destruction" [Reuters]; five nations including Australia and Kenya backed doubling rooftop-solar homes by 2030 [AP].
-- Health: Congo's Ebola outbreak became its deadliest: over 11,000 cases, 5,000+ deaths [Euronews].
-- Europe: 300+ Italian schools were evacuated over hoax bomb emails [Reuters]. The EU Commission proposed a Digital Fairness Act with fines up to 6% of turnover; Portugal shut all schools for Storm Charles [Euronews].
-- Rights: Trinidad and Tobago's final appeal court struck down its gay-sex ban [AP].- US: AP called Mississippi's Senate race for Democrat Scott Colom over Sen. Cindy Hyde-Smith. The House voted 211-204 to refer a Hegseth impeachment bid to committee; House Republicans chose Jim Jordan as minority leader [Axios]. USDA proposed SNAP limits affecting about 6.3 million people [NYT].
-- Business: OpenAI's quarterly revenue rose about 50% to $10bn [WSJ]. Nvidia hired ex-prosecutor Joon Kim to investigate CEO Jensen Huang [The Hill]. The S&P 500 rose about 1.3% [AP].
+1. Ukraine war: Two days of US-mediated Russia-Ukraine talks in Abu Dhabi ended with an agreement in principle on a large prisoner exchange, confirmed by Russian negotiator Vladimir Medinsky, but no ceasefire or deal on territory [AP, Reuters].
+2. Iran and the Gulf: Saudi Arabia said it intercepted seven Houthi missiles and drones; a Houthi claim to have hit an oil pumping station at Yanbu was not confirmed. Iranian security chief Mohsen Rezaei said no enriched nuclear material would leave Iran. Brent crude closed up 1.39% at $92.76 [Reuters].
+3. Gaza: Israeli fire killed at least seven people, including a father and his 13-year-old son in a Gaza City shelter; the military said it struck militants [Reuters].
+4. Climate: At the COP31 leaders' summit in Antalya, Turkey, UN Secretary-General Antonio Guterres said slow action leads toward "mutually assured destruction" [Reuters].
+5. Africa: Congo's Ebola outbreak became the deadliest in its history, with over 11,000 cases and more than 5,000 deaths [Euronews].
+6. Europe: At least 300 Italian schools were evacuated after bomb-threat emails presumed to be hoaxes [Reuters]. At least four stray drones entered Baltic airspace and NATO scrambled jets [Reuters]. The European Commission proposed a Digital Fairness Act with fines of up to 6% of global turnover [Euronews].
+7. Americas: AP called Mississippi's US Senate race for Democrat Scott Colom over Republican Sen. Cindy Hyde-Smith. Trinidad and Tobago's final court of appeal struck down its colonial-era ban on gay sex [AP].
+8. Asia: CloudSek said a Kazakhstan-linked group stole over 2,000 Tajik national-security documents [Reuters].
+9. Business: OpenAI's quarterly revenue rose about 50% to $10 billion [Wall Street Journal].
